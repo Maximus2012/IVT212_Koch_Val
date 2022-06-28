@@ -1,0 +1,21 @@
+C:\Users\Maria\Desktop\Лаба 3\Calculate\calc-on-csharp\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\Maria\Desktop\Лаба 3\Calculate\calc-on-csharp\Calculate\bin\Debug\Calculate.exe
+C:\Users\Maria\Desktop\Лаба 3\Calculate\calc-on-csharp\Calculate\bin\Debug\Calculate.pdb
+C:\Users\Maria\Desktop\Лаба 3\Calculate\calc-on-csharp\Calculate\obj\Debug\Calculate.csproj.AssemblyReference.cache
+C:\Users\Maria\Desktop\Лаба 3\Calculate\calc-on-csharp\Calculate\obj\Debug\Calculate.fCalc.resources
+C:\Users\Maria\Desktop\Лаба 3\Calculate\calc-on-csharp\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+C:\Users\Maria\Desktop\Лаба 3\Calculate\calc-on-csharp\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\Лаба 3\Calculate\calc-on-csharp\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Лаба 3\Calculate\calc-on-csharp\Calculate\obj\Debug\Calculate.exe
+C:\Users\Maria\Desktop\Лаба 3\Calculate\calc-on-csharp\Calculate\obj\Debug\Calculate.pdb
+C:\Users\Max\Desktop\cal\Calculate\calc-on-csharp\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\Max\Desktop\cal\Calculate\calc-on-csharp\Calculate\bin\Debug\Calculate.exe
+C:\Users\Max\Desktop\cal\Calculate\calc-on-csharp\Calculate\bin\Debug\Calculate.pdb
+C:\Users\Max\Desktop\cal\Calculate\calc-on-csharp\Calculate\obj\Debug\Calculate.csproj.AssemblyReference.cache
+C:\Users\Max\Desktop\cal\Calculate\calc-on-csharp\Calculate\obj\Debug\Calculate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Max\Desktop\cal\Calculate\calc-on-csharp\Calculate\obj\Debug\Calculate.fCalc.resources
+C:\Users\Max\Desktop\cal\Calculate\calc-on-csharp\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+C:\Users\Max\Desktop\cal\Calculate\calc-on-csharp\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+C:\Users\Max\Desktop\cal\Calculate\calc-on-csharp\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\cal\Calculate\calc-on-csharp\Calculate\obj\Debug\Calculate.exe
+C:\Users\Max\Desktop\cal\Calculate\calc-on-csharp\Calculate\obj\Debug\Calculate.pdb

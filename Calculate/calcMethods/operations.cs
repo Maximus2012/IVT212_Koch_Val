@@ -43,11 +43,10 @@ namespace Calculate
             double result = Math.Cos(value);
             return Math.Round(result, 4);
         }
-        public double ctg(double value)
+        public double cot(double value)
         {
-            double d = Math.Tan(value), result;
-            result = Math.Round(1 / d,4);
-            return result;
+            double result = 1/Math.Tan(value);
+            return Math.Round(result, 4);
         }
     }
 

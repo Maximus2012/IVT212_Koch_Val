@@ -89,7 +89,15 @@ namespace calcTest
             result = operation.tan(a);
             Assert.AreEqual(expected, result);
         }
-
+        [TestMethod]
+        public void TestMethodCot()
+        {
+            Operations operation = new Operations();
+            double a = 1;
+            double expected = 0.6421; double result;
+            result = operation.cot(a);
+            Assert.AreEqual(expected, result);
+        }
     }
     
 }

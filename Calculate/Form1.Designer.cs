@@ -199,7 +199,7 @@
             this.bNum6.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.bNum6.Font = new System.Drawing.Font("Microsoft JhengHei", 13.8F, System.Drawing.FontStyle.Bold);
             this.bNum6.ForeColor = System.Drawing.Color.White;
-            this.bNum6.Location = new System.Drawing.Point(509, 613);
+            this.bNum6.Location = new System.Drawing.Point(509, 607);
             this.bNum6.Margin = new System.Windows.Forms.Padding(4);
             this.bNum6.Name = "bNum6";
             this.bNum6.Size = new System.Drawing.Size(195, 83);
@@ -380,9 +380,9 @@
             this.tb_Calc.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(66)))), ((int)(((byte)(68)))));
             this.tb_Calc.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.tb_Calc.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.tb_Calc.Font = new System.Drawing.Font("Microsoft JhengHei", 25F, System.Drawing.FontStyle.Bold);
+            this.tb_Calc.Font = new System.Drawing.Font("Microsoft JhengHei", 30F, System.Drawing.FontStyle.Bold);
             this.tb_Calc.ForeColor = System.Drawing.SystemColors.Window;
-            this.tb_Calc.Location = new System.Drawing.Point(309, 52);
+            this.tb_Calc.Location = new System.Drawing.Point(324, 75);
             this.tb_Calc.Margin = new System.Windows.Forms.Padding(4);
             this.tb_Calc.Multiline = true;
             this.tb_Calc.Name = "tb_Calc";
@@ -411,9 +411,9 @@
             this.operation.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(250)))), ((int)(((byte)(66)))), ((int)(((byte)(68)))));
             this.operation.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.operation.Cursor = System.Windows.Forms.Cursors.Arrow;
-            this.operation.Font = new System.Drawing.Font("Microsoft JhengHei", 25F, System.Drawing.FontStyle.Bold);
+            this.operation.Font = new System.Drawing.Font("Microsoft JhengHei", 30F, System.Drawing.FontStyle.Bold);
             this.operation.ForeColor = System.Drawing.SystemColors.Window;
-            this.operation.Location = new System.Drawing.Point(29, 59);
+            this.operation.Location = new System.Drawing.Point(29, 75);
             this.operation.Margin = new System.Windows.Forms.Padding(4);
             this.operation.Multiline = true;
             this.operation.Name = "operation";

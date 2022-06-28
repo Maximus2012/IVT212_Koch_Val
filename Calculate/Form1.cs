@@ -248,6 +248,7 @@ namespace Calculate
 
         private void bx_y_Click(object sender, EventArgs e)
         {
+            operation.Text = "^";
             if (tb_Calc.Text == "") tb_Calc.Text = "0";
             else
             {

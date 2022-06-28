@@ -169,29 +169,58 @@ namespace Calculate
 
         }
 
-        private void bUmn_Click(object sender, EventArgs e)
+                private void bUmn_Click(object sender, EventArgs e)
         {
-            
+            operation.Text = "*";
+            if (tb_Calc.Text == "") tb_Calc.Text = "0";
+            else
+            {
+
+                if (op > 0)
+                    bRavno_Click(sender, e);
+                a = Convert.ToDouble(tb_Calc.Text);
+                NewOp = true;
+                op = 3;
+            }
         }
 
         private void bDelenie_Click(object sender, EventArgs e)
         {
-            
+            operation.Text = "/";
+            if (tb_Calc.Text == "") tb_Calc.Text = "0";
+            else
+            {
+
+                if (op > 0)
+                    bRavno_Click(sender, e);
+                a = Convert.ToDouble(tb_Calc.Text);
+                NewOp = true;
+                op = 4;
+            }
         }
 
         private void bsin_Click(object sender, EventArgs e)
         {
-
+            if (tb_Calc.Text == "") tb_Calc.Text = "0";
+            tb_Calc.Text = operations.sin(Convert.ToDouble(tb_Calc.Text)).ToString();
+            NewOp = true;
+            op = -1;
         }
 
         private void bCos_Click(object sender, EventArgs e)
         {
-
+            if (tb_Calc.Text == "") tb_Calc.Text = "0";
+            tb_Calc.Text = operations.cos(Convert.ToDouble(tb_Calc.Text)).ToString();
+            NewOp = true;
+            op = -1;
         }
 
         private void bTg_Click(object sender, EventArgs e)
         {
-
+            if (tb_Calc.Text == "") tb_Calc.Text = "0";
+            tb_Calc.Text = operations.tan(Convert.ToDouble(tb_Calc.Text)).ToString();
+            NewOp = true;
+            op = -1;
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)
@@ -201,25 +230,49 @@ namespace Calculate
 
         private void erase_Click(object sender, EventArgs e)
         {
-
+            int lenght = tb_Calc.Text.Length - 1;
+            int i;
+            string textik = tb_Calc.Text;
+            tb_Calc.Clear();
+            for (i = 0; i < lenght; i++)
+            {
+                tb_Calc.Text = tb_Calc.Text + textik[i];
+            }
         }
 
         private void ctg_Click(object sender, EventArgs e)
         {
-
+            double c;
+            if (tb_Calc.Text == "") tb_Calc.Text = "0";
+            c= operations.tan(Convert.ToDouble(tb_Calc.Text));
+            tb_Calc.Text = (1/c).ToString();
+            NewOp = true;
+            op = -1;
         }
 
         private void bx_y_Click(object sender, EventArgs e)
         {
-
+            if (tb_Calc.Text == "") tb_Calc.Text = "0";
+            else
+            {
+                if (op > 0)
+                    bRavno_Click(sender, e);
+                a = Convert.ToDouble(tb_Calc.Text);
+                NewOp = true;
+                op = 5;
+            }
         }
 
 
 
+        private void tb_Calc_TextChanged(object sender, EventArgs e)
+        {
+
+        }
 
         
 
        
-    }       
+    }   
     
 }

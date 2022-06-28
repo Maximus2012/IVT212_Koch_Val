@@ -241,7 +241,7 @@ namespace Calculate
             double c;
             if (tb_Calc.Text == "") tb_Calc.Text = "0";
             c= operations.tan(Convert.ToDouble(tb_Calc.Text));
-            tb_Calc.Text = (1/c).ToString();
+            tb_Calc.Text = (Math.Round(1/c,4)).ToString();
             NewOp = true;
             op = -1;
         }

@@ -223,10 +223,6 @@ namespace Calculate
             op = -1;
         }
 
-        private void panel1_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
 
         private void erase_Click(object sender, EventArgs e)
         {
@@ -261,13 +257,6 @@ namespace Calculate
                 NewOp = true;
                 op = 5;
             }
-        }
-
-
-
-        private void tb_Calc_TextChanged(object sender, EventArgs e)
-        {
-
         }
 
         

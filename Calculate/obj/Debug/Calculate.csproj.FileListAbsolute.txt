@@ -19,3 +19,14 @@ C:\Users\Max\Desktop\cal\Calculate\calc-on-csharp\Calculate\obj\Debug\Calculate.
 C:\Users\Max\Desktop\cal\Calculate\calc-on-csharp\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
 C:\Users\Max\Desktop\cal\Calculate\calc-on-csharp\Calculate\obj\Debug\Calculate.exe
 C:\Users\Max\Desktop\cal\Calculate\calc-on-csharp\Calculate\obj\Debug\Calculate.pdb
+C:\Users\Max\Documents\GitHub\IVT212_Koch_Val\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\Max\Documents\GitHub\IVT212_Koch_Val\Calculate\bin\Debug\Calculate.exe
+C:\Users\Max\Documents\GitHub\IVT212_Koch_Val\Calculate\bin\Debug\Calculate.pdb
+C:\Users\Max\Documents\GitHub\IVT212_Koch_Val\Calculate\obj\Debug\Calculate.csproj.AssemblyReference.cache
+C:\Users\Max\Documents\GitHub\IVT212_Koch_Val\Calculate\obj\Debug\Calculate.csproj.SuggestedBindingRedirects.cache
+C:\Users\Max\Documents\GitHub\IVT212_Koch_Val\Calculate\obj\Debug\Calculate.fCalc.resources
+C:\Users\Max\Documents\GitHub\IVT212_Koch_Val\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+C:\Users\Max\Documents\GitHub\IVT212_Koch_Val\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+C:\Users\Max\Documents\GitHub\IVT212_Koch_Val\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\Max\Documents\GitHub\IVT212_Koch_Val\Calculate\obj\Debug\Calculate.exe
+C:\Users\Max\Documents\GitHub\IVT212_Koch_Val\Calculate\obj\Debug\Calculate.pdb

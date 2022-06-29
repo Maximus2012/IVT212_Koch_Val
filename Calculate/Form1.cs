@@ -199,7 +199,7 @@ namespace Calculate
             }
         }
 
-        private void bsin_Click(object sender, EventArgs e)
+        public void bsin_Click(object sender, EventArgs e)
         {
             if (tb_Calc.Text == "") tb_Calc.Text = "0";
             tb_Calc.Text = operations.sin(Convert.ToDouble(tb_Calc.Text)).ToString();
